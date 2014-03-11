@@ -1,0 +1,6 @@
+C:\example\thorus\thorus\bin\Debug\thorus.exe.config
+C:\example\thorus\thorus\bin\Debug\thorus.exe
+C:\example\thorus\thorus\bin\Debug\thorus.pdb
+C:\example\thorus\thorus\obj\Debug\thorus.csprojResolveAssemblyReference.cache
+C:\example\thorus\thorus\obj\Debug\thorus.exe
+C:\example\thorus\thorus\obj\Debug\thorus.pdb
