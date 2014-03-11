@@ -11,7 +11,8 @@ namespace thorus
         public Some()
         {
             var num = 0;
-            num = 5 + 5;
+            var loaf = 5;
+            num = 5 + loaf;
         }
     }
 }
