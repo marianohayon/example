@@ -19,7 +19,6 @@ namespace fixture
         {
             var expected = 67;
             Assert.AreEqual(expected, 5);
-
         }
     }
 }
