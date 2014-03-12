@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thorus", "thorus\thorus.csproj", "{2F58653D-39F7-47FE-B3BD-372B74CAB3D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fixture", "fixture\fixture.csproj", "{5070EAC0-CF3F-4048-A9C4-D5637578D498}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{2F58653D-39F7-47FE-B3BD-372B74CAB3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F58653D-39F7-47FE-B3BD-372B74CAB3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F58653D-39F7-47FE-B3BD-372B74CAB3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5070EAC0-CF3F-4048-A9C4-D5637578D498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5070EAC0-CF3F-4048-A9C4-D5637578D498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5070EAC0-CF3F-4048-A9C4-D5637578D498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5070EAC0-CF3F-4048-A9C4-D5637578D498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

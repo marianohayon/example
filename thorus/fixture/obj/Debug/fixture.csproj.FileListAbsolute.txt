@@ -1,0 +1,7 @@
+C:\example\thorus\fixture\obj\Debug\fixture.csprojResolveAssemblyReference.cache
+C:\example\thorus\fixture\bin\Debug\fixture.dll
+C:\example\thorus\fixture\bin\Debug\fixture.pdb
+C:\example\thorus\fixture\bin\Debug\thorus.exe
+C:\example\thorus\fixture\bin\Debug\thorus.pdb
+C:\example\thorus\fixture\obj\Debug\fixture.dll
+C:\example\thorus\fixture\obj\Debug\fixture.pdb
