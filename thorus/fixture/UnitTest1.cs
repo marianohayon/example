@@ -13,5 +13,13 @@ namespace fixture
             Assert.AreEqual(expected, 5);
 
         }
+
+        [TestMethod]
+        public void failure()
+        {
+            var expected = 67;
+            Assert.AreEqual(expected, 5);
+
+        }
     }
 }
