@@ -1,1 +1,1 @@
- %~dp0C:\Chutzpah.3.2.0\chutzpah.console.exe /testMode TypeScript /path %~dp0thorus\thorus\JavaScript1.js
+C:\Chutzpah.3.2.0\chutzpah.console.exe /testMode TypeScript /path %~dp0thorus\JavaScript1.js
